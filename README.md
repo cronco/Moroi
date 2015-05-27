@@ -1,8 +1,12 @@
-# Casper
+# Moroi
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Slightly altered variation of [Casper](http://github.com/tryghost/casper), the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+Moroi uses Open Sans as the main font, because Merriweather doesn't support Romanian special characters.
+
+[Moroi](http://en.wikipedia.org/wiki/Moroi) is a type of child ghost in Romanian mythology, like Casper.
+
+To download, visit the [releases](https://github.com/cronco/Moroi/releases) page.
 
 ## Copyright & License
 
